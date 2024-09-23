@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "2024级第二次授课"
-author:       "0wing"
+author:       "贾昊泽"
 header-style: text
 catalog:      true
 tags:
