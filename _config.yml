@@ -91,5 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "北桥", href: "https://beiqiao.online/"}
+    { title: "北桥创新实验室", href: "https://beiqiao.online/"}
+    { title: "光电科技协会", href: "https://"}
+    { title: "集智创新协会", href: "https://"}
   ]
