@@ -1,0 +1,21 @@
+---
+layout:       post
+title:        "2024年计划表"
+author:       "0wing"
+header-style: text
+catalog:      true
+tags:
+    - 2024
+    - 计划
+---
+
+> 参考指引
+
+内网资源
+[视频教程指南](http://192.168.0.100/)
+
+|科目|课程|习题|
+|:-:|:-:|:-:|
+|ms office||[1](https://www.bilibili.com/video/BV1rL411g7HU/)|
+|信号与系统|[1](https://www.bilibili.com/video/BV1d94y1e79C/)|[1](https://www.bilibili.com/video/BV13F4m1M772)|
+|计算机网络(谢希仁,第8版)|[1](https://www.bilibili.com/video/BV1t34y1d7yA/)||
