@@ -1,11 +1,11 @@
 # Site settings
-title: 0wing Blog
-SEOTitle: 零翼的博客 | 0wing Blog
+title: The Maker's Light
+SEOTitle: 创客之光 | The Maker's Light
 header-img: img/home-bg.jpg
-email: 0wing@gmail.com
-description: "这里是 @0wing 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "零翼, 0wing零翼, 0wing, 0wing, @0wing, 0wing的博客, 0wing Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://0wing.me" # your host, for absolute URL
+email: admin@0wing.top
+description: "这里是 创客之光 的主页，与你一起发现更大的世界"
+keyword: "创客之光, arduino, stm32"
+url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 0wing
-zhihu_username: 0wing
-github_username: 0wing
-twitter_username: 0wing
-#facebook_username:  0wing
+weibo_username: 创客之光
+zhihu_username: 创客之光
+github_username: 创客之光
+twitter_username: 创客之光
+#facebook_username:  创客之光
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -36,7 +36,7 @@ exclude:
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+timezone: CN
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: 0wing
+disqus_username: 创客之光
 
 # Netease settings
 netease_comment: false
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: 0wing.me
+ga_domain: a.test
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 make the world simple 的程序员"
-sidebar-avatar: https://github.com/0wing.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "这里是 创客之光 的主页，与你一起发现更大的世界"
+sidebar-avatar: https://github.com/创客之光.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags

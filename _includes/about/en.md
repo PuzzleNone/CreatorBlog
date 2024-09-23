@@ -1,1 +1,9 @@
-Hey, I am Fish. I am youth man who loves computer science and electronic technology.
+  Maker's Light, an innovative and passionate community focused on hardware development. We are good at using STM32 and Arduino stack to create a variety of interesting and meaningful products.
+
+  In this era of rapid technological change, Maker Light constantly explores new technological fields with its unique perspective and keen insight. We deeply study the technical characteristics of STM32 and Arduino, and flexibly apply them in various projects to bring convenience and fun to people's lives.
+
+  The members of Maker Light have solid professional knowledge and rich practical experience, and we dare to challenge ourselves and constantly break the boundaries of technology. With our joint efforts, we have successfully created many eye-catching products, such as smart home devices, automatic control systems and so on. These products are not only highly practical, but also full of creativity and fun, and are loved by the majority of users.
+
+  In addition, Maker Light also actively participates in various science and technology competitions and activities, exchanges and learns with makers from all over the world, and jointly promotes the development of scientific and technological innovation. We always maintain the love and pursuit of new technology, and constantly explore unknown areas to contribute to the future development of science and technology.
+
+  In short, Maker Light is a dynamic and innovative community, and we have achieved remarkable results in the field of hardware development. We believe that in the coming days, we will continue to play to our advantages, create more interesting and practical products, bring more surprises and convenience to our lives.
