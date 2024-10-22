@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "2024级第6次授课 无线通信及协议"
+title:        "2024级第5次授课预告 无线通信及协议"
 author:       "谢峰"
 header-style: text
 catalog:      true
